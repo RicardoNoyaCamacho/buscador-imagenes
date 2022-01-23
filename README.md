@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Un buscador de imagenes hecho con React
+Lo puedes ver aquí
+```
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
